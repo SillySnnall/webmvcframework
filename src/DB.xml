@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+    <user id="b9bdf09c-58ff-4825-ada8-880224bc35f2" userName="admin" userPwd="123123" email="" birthday="1992-12-30"/>
+    <user id="99b3a431-1a92-4ea7-b24a-093baedb3a4f" userName="adminz" userPwd="111" email="" birthday="1992-12-03"/>
+    <user id="73a8ac97-cde8-4d4e-9add-99f101a30232" userName="admine" userPwd="111" email="" birthday=""/>
+</users>

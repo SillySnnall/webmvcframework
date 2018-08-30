@@ -7,6 +7,12 @@
         <element id="directory" name="classes">
           <element id="module-output" name="webmvcframework" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="three_jar" />
+        </element>
+        <element id="directory" name="pages">
+          <element id="dir-copy" path="$PROJECT_DIR$/web/pages" />
+        </element>
       </element>
     </root>
   </artifact>
